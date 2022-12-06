@@ -1,0 +1,143 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   background-color:#D1CDC1;
+   color: black;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#nav{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    font-size: large;
+    font-family: gilroy;
+}
+
+#navr a{
+    padding: 10px;   
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+#text {
+    padding: 90px;
+    text-align: center;
+    font-family: voyage;
+    
+}
+
+#text p{
+    padding: 15px;
+    text-align: center;
+    font-family: gilroy;
+    
+}
+
+#button {
+    text-align: center;
+    margin-top: -6%;
+    margin-bottom: 100px;
+    
+}
+
+#button button{
+    padding: 10px;
+    border: transparent;
+    background-color: rgb(65, 38, 3);
+    color: #fff;
+    font-family: gilroy;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: cubic-bezier(0.19, 1, 0.22, 1) 1s;
+}
+
+#button button:hover{
+    color: red;
+    border-radius: 20px;
+    
+    
+}
+
+#sleft{
+    padding: 10px;
+    font-family: gilroy;
+    width: 25%;
+    margin-top: 100px;
+    margin-left: 25%;
+    border-right: solid 1px;
+    margin-bottom: 30px;
+    text-align: right;
+
+}
+
+#sleft h2{
+    font-size: 20px;
+}
+
+#sleft h3{
+    font-size: 10px;
+    margin-top: 10px;
+
+}
+
+#sright{
+    padding: 10px;
+    font-family: gilroy;
+    width: 25%;
+    margin-top: 100px;
+    margin-left: 1%;
+}
+
+
+#lelo{
+    display: flex;
+    gap: 10px;
+   
+}
+
+#lelo h2{
+    font-family: gilroy;
+    font-size: 15px;
+}
+
+#para{
+    font-size: 10px;
+    font-weight: 700;
+    margin-left: 26px;
+}
+#textlr{
+   display: flex;
+}
+
+#lelo2{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+   
+}
+
+#lelo2 h2{
+    font-family: gilroy;
+    font-size: 15px;
+}
+
+#parar{
+    font-size: 10px;
+    font-weight: 700;
+    margin-left: 26px;
+}
+
+
+
+
+
+
+
+

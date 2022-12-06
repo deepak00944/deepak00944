@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Singh
 - 👀 I’m interested in web developing
 - 🌱 I’m currently working on web developer and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Here you will see few of my small projects.
 - 📫 How to reach me....
 
 <!---

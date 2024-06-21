@@ -1,10 +1,30 @@
-- 👋 Hi, I’m Deepak Singh
-- 👀 I’m interested in web developing
-- 🌱 I’m currently working on web development and python
-- 💞️ Here you will see few of my small projects on web.
-- 📫 How to reach me....
+<div align="center">
 
-<!---
-deepak00944/deepak00944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to My GitHub Profile!
+
+## Hello, I'm Deepak Singh!
+
+I'm a web developer currently focused on backend development.
+
+**Languages and Tools:**
+- Java
+- JavaScript
+- HTML
+- CSS
+- Python
+- Tableau
+
+</div>
+
+### Connect with Me
+
+- https://github.com/deepak00944
+- https://www.linkedin.com/in/deepak-singh-566787172/
+
+Feel free to check out my repositories and get in touch for any collaboration or project inquiries!
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak00944&show_icons=true&theme=radical)
+
+</div>

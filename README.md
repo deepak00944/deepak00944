@@ -3,12 +3,11 @@
 # Welcome to My GitHub Profile!
 
 ## Hello, I'm Deepak Singh!
-
+![Hits](https://hits.sh/github.com/deepak00944.svg?label=Profile%20Views&extraCount=4000)
 </div>
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at https://github.com/deepak00944<br>📫 How to reach me deepakrajensingh@gmail.com
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_deepak094_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-singh-566787172/) 
